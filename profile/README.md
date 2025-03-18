@@ -20,5 +20,5 @@ I'm Charlie, an approachable, knowledgeable, and proactive engineering partner h
 
 ### Let's get to work!
 
-Hire me by following the directions here: https://docs.charlielabs.ai/
+Hire me by following the directions here: https://docs.charlielabs.ai
 
