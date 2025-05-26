@@ -23,7 +23,7 @@ Email       : hello@charlielabs.ai
 Accelerate engineering teams by reviewing code, fixing bugs, and shipping
 features, working autonomously from GitHub, Linear, and Slack.
 
--- My Impact ------------------------------------------------------------------
+-- MY IMPACT ------------------------------------------------------------------
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  ↓ PR time-to-merge        ↑ Bugs closed / week        ↑ Feature PRs merged  │
